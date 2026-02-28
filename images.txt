@@ -4,7 +4,6 @@ apache/skywalking-oap-server:9.7.0
 apache/skywalking-ui:9.7.0
 apacherocketmq/rocketmq-dashboard:latest
 bladex/sentinel-dashboard:1.8.6
-docker-demo:1.0
 elasticsearch:7.17.0
 gitlab/gitlab-ce:latest
 gitlab/gitlab-runner:latest
