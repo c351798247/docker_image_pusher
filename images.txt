@@ -1,6 +1,20 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+alpine:latest
+apache/rocketmq:5.1.4
+apache/skywalking-oap-server:9.7.0
+apache/skywalking-ui:9.7.0
+apacherocketmq/rocketmq-dashboard:latest
+bladex/sentinel-dashboard:1.8.6
+docker-demo:1.0
+elasticsearch:7.17.0
+gitlab/gitlab-ce:latest
+gitlab/gitlab-runner:latest
+hello-world:latest
+kibana:7.17.0
+minio/minio:latest
+mysql:8.0
+nacos/nacos-server:v2.2.3
+nginx:latest
+openjdk:8-jre
+openjdk:8-jre-alpine
+redis:7
+redis:alpine
